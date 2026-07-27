@@ -2,7 +2,7 @@
   "name": "Devocionário — Santos, Santas e Títulos de Nossa Senhora",
   "short_name": "Devocionário",
   "description": "Consulta rápida de santos, santas e títulos de Nossa Senhora — origem, padroado, curiosidade e oração breve.",
-  "start_url": "./santodevocionario.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

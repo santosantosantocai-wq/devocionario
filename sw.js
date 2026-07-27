@@ -1,6 +1,6 @@
 const CACHE_NAME = 'devocionario-cache-v1';
 const URLS_TO_CACHE = [
-  './santodevocionario.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
